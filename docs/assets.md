@@ -1,0 +1,5 @@
+# Asset sources
+
+- `public/images/avdhoot-shimpi.jpeg` — downloaded at the user's direction from the [Adapt Physiotherapy team page](https://www.adaptphysiotherapy.in/team), direct image URL: https://www.adaptphysiotherapy.in/avdhoot.jpeg. The source page labels the image “Dr. Avdhoot Shimpi.” Original JPEG retained at 992 × 1260; the site uses CSS `object-fit` and two different `object-position` crops only. No face or image regeneration, retouching, recoloring, or compositing was performed.
+- `public/images/physionow-logo-forest.png` and `public/images/physionow-logo-ivory.png` — user-supplied stacked transparent logo recolored from blue to forest green for the header and ivory for the dark footer. Original provided at `/Users/abhishekshimpi/Downloads/physionow-website/assets/logo.png`.
+- `public/favicon-32.png` and `public/icon-192.png` — user-supplied favicon/app icon recolored from blue to forest green; white backgrounds retained for contrast. Source assets are in `/Users/abhishekshimpi/Downloads/physionow-website/assets/`.
